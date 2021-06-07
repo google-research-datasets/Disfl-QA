@@ -48,7 +48,7 @@ Here's an example from the dataset:
   "56ddde6b9a695914005b962c": {
     "original": "What century did the Normans first gain their separate identity?",
     "disfluent": "When no what century did the Normans first gain their separate identity?"
-  }, ...
+  },
  }
 ```
 
@@ -57,7 +57,7 @@ If you use or discuss this dataset in your work, please cite it as follows:
 
 ```
 @inproceedings{gupta-etal-2021-disflqa,
-    title = "Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering",
+    title = "{Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering}",
     author = "Gupta, Aditya and Xu, Jiacheng and Upadhyay, Shyam and Yang, Diyi and Faruqui, Manaal",
     booktitle = "Findings of ACL",
     year = "2021"
