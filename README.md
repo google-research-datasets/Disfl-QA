@@ -4,16 +4,7 @@ Disfl-QA is a targeted dataset for contextual disfluencies in an information see
 
 The final dataset consists of ~12k (disfluent question, answer) pairs. Over 90\% of the disfluencies are corrections or restarts, making it a much harder test set for disfluency correction. Disfl-QA aims to fill a major gap between speech and NLP research community. We hope the dataset can serve as a benchmark dataset for testing robustness of models against disfluent inputs. 
 
-Our expriments reveal that the state-of-the-art models are brittle when subjected to disfluent inputs from Disfl-QA. Detailed experiments and analyses can be found in our paper. If you use or discuss this dataset in your work, please cite it as follows:
-
-```
-@inproceedings{gupta-etal-2021-disflqa,
-    title = "Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering",
-    author = "Gupta, Aditya and Xu, Jiacheng and Upadhyay, Shyam and Yang, Diyi and Faruqui, Manaal",
-    booktitle = "Findings of ACL",
-    year = "2021"
-}
-```
+Our expriments reveal that the state-of-the-art models are brittle when subjected to disfluent inputs from Disfl-QA. Detailed experiments and analyses can be found in our paper.
 
 ## Dataset Description
 Disfl-QA consists of ~12k disfluent questions with the following train/dev/test splits:
@@ -59,6 +50,18 @@ Here's an example from the dataset:
     "disfluent": "When no what century did the Normans first gain their separate identity?"
   }, ...
  }
+```
+
+## Citation
+If you use or discuss this dataset in your work, please cite it as follows:
+
+```
+@inproceedings{gupta-etal-2021-disflqa,
+    title = "Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering",
+    author = "Gupta, Aditya and Xu, Jiacheng and Upadhyay, Shyam and Yang, Diyi and Faruqui, Manaal",
+    booktitle = "Findings of ACL",
+    year = "2021"
+}
 ```
 
 ## License
