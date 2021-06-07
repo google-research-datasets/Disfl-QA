@@ -10,7 +10,7 @@ Our expriments reveal that the state-of-the-art models are brittle when subjecte
 @inproceedings{gupta-etal-2021-disflqa,
     title = "Disfl-QA: A Benchmark Dataset for Understanding Disfluencies in Question Answering",
     author = "Gupta, Aditya and Xu, Jiacheng and Upadhyay, Shyam and Yang, Diyi and Faruqui, Manaal",
-    booktitle = "Findings of of ACL 2021",
+    booktitle = "Findings of ACL",
     year = "2021"
 }
 ```
