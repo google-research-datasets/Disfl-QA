@@ -4,7 +4,7 @@ Disfl-QA is a targeted dataset for contextual disfluencies in an information see
 
 The final dataset consists of ~12k (disfluent question, answer) pairs. Over 90\% of the disfluencies are corrections or restarts, making it a much harder test set for disfluency correction. Disfl-QA aims to fill a major gap between speech and NLP research community. We hope the dataset can serve as a benchmark dataset for testing robustness of models against disfluent inputs. 
 
-Our expriments reveal that the state-of-the-art models are brittle when subjected to disfluent inputs from Disfl-QA. Detailed experiments and analyses can be found in our paper.
+Our expriments reveal that the state-of-the-art models are brittle when subjected to disfluent inputs from Disfl-QA. Detailed experiments and analyses can be found in our [paper](https://arxiv.org/pdf/2106.04016.pdf).
 
 ## Dataset Description
 Disfl-QA consists of ~12k disfluent questions with the following train/dev/test splits:
